@@ -1,0 +1,1 @@
+This repository demonstrates a common Ruby error and its solution. The `bug.rb` file contains code that produces a `TypeError` due to trying to add an integer to a string.  The solution (`bugSolution.rb`) shows how to properly handle potential type mismatches and avoid this error. This is a good example for understanding type safety and error handling in Ruby.
